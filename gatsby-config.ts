@@ -35,6 +35,10 @@ const config: GatsbyConfig = {
         ],
         externalLinks: [
           {
+            name: `Github`,
+            url: `https://github.com/mnepita`,
+          },
+          {
             name: `Twitter`,
             url: `https://twitter.com/mnepitadev`,
           },
